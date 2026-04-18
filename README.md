@@ -102,6 +102,10 @@ A comprehensive management tool for handling hospitality operations with persist
   <a href="https://www.behance.net/bhomaramsuthar">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/bhoomx9/">
+    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
+  </a>
+  
 </p>
 
 ---
@@ -109,3 +113,13 @@ A comprehensive management tool for handling hospitality operations with persist
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0f172a,100:6366f1&section=footer" />
 </p>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Molza01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
