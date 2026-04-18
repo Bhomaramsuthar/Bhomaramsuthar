@@ -99,7 +99,7 @@ A comprehensive management tool for handling hospitality operations with persist
   <a href="https://www.linkedin.com/in/bhomaram-suthar-060447285/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.behance.net/bhomaramsuthar">
+  <a href="https://www.behance.net/bhomaramsuthar2">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
   </a>
   <a href="https://www.instagram.com/bhoomx9/">
