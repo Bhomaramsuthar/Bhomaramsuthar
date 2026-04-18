@@ -96,7 +96,7 @@ A comprehensive management tool for handling hospitality operations with persist
 # 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhomaram-suthar-060447285/">
+  <a href="https://www.linkedin.com/in/bhomaram-suthar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.behance.net/bhomaramsuthar2">
