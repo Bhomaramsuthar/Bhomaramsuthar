@@ -22,7 +22,7 @@ I specialize in **Computer Vision and Machine Learning**, but I also have a deep
 
 - 🎓 **B.E. in Computer Engineering** (CGPA: 8.5)
 - 🧠 Active **LeetCode** solver using **C++**
-- 🤖 Specialized in **TensorFlow, OpenCV, and Scikit-learn**
+- 🤖 Specialized in **TensorFlow, PyTorch, OpenCV, and Scikit-learn**
 - 🎨 Portfolio creator on **Behance**
 - 🚀 Passionate about **Sustainability and OCR technologies**
 
@@ -32,7 +32,7 @@ I specialize in **Computer Vision and Machine Learning**, but I also have a deep
 
 ### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv" height="48" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv" height="48" />
 </p>
 
 ### 🛠 Full Stack Development
@@ -53,6 +53,11 @@ I specialize in **Computer Vision and Machine Learning**, but I also have a deep
 ---
 
 # 🚀 Featured Projects
+
+## 🛡️ EchoGuard: Vishing Defense
+A forensic AI audio analysis platform that detects synthetic or deepfake voice clips by converting audio waveforms into visual Mel-Spectrogram textures.
+- **Tech:** Python, PyTorch, FastAPI, React, Librosa
+- **Highlight:** Implemented a modified ResNet18 CNN architecture for real-time deepfake artifact detection alongside an interactive cybersecurity dashboard.
 
 ## 📝 Handwritten Equation OCR System
 An advanced system that converts handwritten mathematical equations into **LaTeX** and **JSON** formats.
@@ -98,6 +103,9 @@ A comprehensive management tool for handling hospitality operations with persist
 <p align="center">
   <a href="https://www.linkedin.com/in/bhomaram-suthar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/Bhomaram_Suthar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="https://www.behance.net/bhomaramsuthar2">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
